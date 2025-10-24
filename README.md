@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**NTHoang2103/NTHoang2103*![images](https://github.com/user-attachments/assets/66ff926b-a853-4db9-89b1-51b4f1817669)
+images(https://github.com/user-attachments/assets/66ff926b-a853-4db9-89b1-51b4f1817669)
 <!--
 * is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
